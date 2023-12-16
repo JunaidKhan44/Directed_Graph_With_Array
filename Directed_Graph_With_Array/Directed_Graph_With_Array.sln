@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Directed_Graph_With_Array", "Directed_Graph_With_Array\Directed_Graph_With_Array.vcxproj", "{75DE6BB3-7506-40BD-9AE8-C3D6AF5C5C6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75DE6BB3-7506-40BD-9AE8-C3D6AF5C5C6F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{75DE6BB3-7506-40BD-9AE8-C3D6AF5C5C6F}.Debug|Win32.Build.0 = Debug|Win32
+		{75DE6BB3-7506-40BD-9AE8-C3D6AF5C5C6F}.Release|Win32.ActiveCfg = Release|Win32
+		{75DE6BB3-7506-40BD-9AE8-C3D6AF5C5C6F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
